@@ -1,5 +1,5 @@
 print("hello world")
-print("My name is Alex")
+print("My name is")
 #git add .
 #git commit -m “Commit message here"
 #git push origin master
